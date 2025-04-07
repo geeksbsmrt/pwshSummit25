@@ -8,6 +8,10 @@ The PowerShell + DevOps Global Summit is an annual conference for PowerShell and
 - [State of Infrastructure-as-Code](./stateOfIoC.md)
 - [State of the Shell](./stateOfShell.md)
 
+## Workshops
+
+- [A Scripters next step.. building a RESTful API](./apiLab/restAPI.md)
+
 ## Notes
 
 - 403 - Social room
