@@ -6,6 +6,7 @@ The PowerShell + DevOps Global Summit is an annual conference for PowerShell and
 
 - [Delivering Value Through Data with Trust, Understanding and Care](./dataValue.md)
 - [State of Infrastructure-as-Code](./stateOfIoC.md)
+- [State of the Shell](./stateOfShell.md)
 
 ## Notes
 
