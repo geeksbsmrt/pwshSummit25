@@ -1,6 +1,10 @@
 # Delivering Value Through Data with Trust, Understanding and Care
 
-Room 405 - 9:30 - 10:15
+Speaker: Jennifer Stirrup
+Room: 405
+Time: 9:30 - 10:15
+
+## Session Description
 
 PowerShell and DevOps have become indispensable tools for managing and automating complex IT environments. However, as we harness the power of data to drive business intelligence and AI-driven insights, we must also address delivering value from the business impact of data. Delivering value means creating a culture that facilitates innovation and values trust, understanding, and care to create more innovative solutions and better outcomes for the business and the teams.
 

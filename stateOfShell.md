@@ -1,6 +1,10 @@
 # State of the Shell
 
-Room 405 - 11:15 - 12:00
+Speakers: Jason Helmick, Sydney Smith, Steven Bucher, & Damien Caro
+Room: 405
+Time:  11:15 - 12:00
+
+## Session Description
 
 PowerShell 7.5 has been released and it's full of community-driven investments! Learn about these
 updates from the PowerShell Team and join in the discussion about the future of PowerShell 7.6, DSC,

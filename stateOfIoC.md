@@ -1,6 +1,10 @@
 # State of Infrastructure-as-Code
 
-Room 405 - 10:30 - 11:15
+Speakers: Mark Gray & Alex Frankel
+Room: 405
+Time: 10:30 - 11:15
+
+## Session Description
 
 In this session, we will share Microsoft's position on Infrastructure as Code (IaC) and the exciting directions it is heading. We'll explore the fundamental concepts of IaC and how it is transforming the way we manage and deploy infrastructure. We'll also touch on the groundbreaking advancements in artificial intelligence and how Copilot is poised to influence the future of IaC.
 

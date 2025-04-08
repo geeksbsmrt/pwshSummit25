@@ -1,6 +1,10 @@
 # Individual Contributor Careers
 
-Room 405 - 9:00 - 9:45
+Speaker: Jeffrey Snover
+Room: 405
+Time: 9:00 - 9:45
+
+## Session Description
 
 In this presentation, Jeffrey Snover shares insights from his 40+ year career as an Individual Contributor (IC), including his journey to becoming a Technical Fellow at Microsoft. He discusses the importance of soft skills, such as communication and collaboration, for career advancement, and the role of luck and mentorship. Snover emphasizes the value of passion and perseverance, particularly during challenging periods. The key takeaways are the importance of soft skills, mentorship, and understanding the system's needs for career advancement, as well as the significance of passion.
 
