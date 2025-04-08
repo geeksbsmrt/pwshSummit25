@@ -16,6 +16,7 @@ The PowerShell + DevOps Global Summit is an annual conference for PowerShell and
 - [Building Resilient Automations with PowerShell](./buildingResilientAutomations.md)
 - [PowerShell in CI/CD Pipelines: A Practical Tour of Deployment Options](./ciCdPipelines.md)
 - [PowerShell Performance and Technique Tweaks: The Encore](./performanceAndTechnique/performanceAndTechnique.md)
+- [The Incredible Extensible PSObject](./incrediblePSObject.md)
 
 ## Workshops
 
