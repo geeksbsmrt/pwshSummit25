@@ -13,6 +13,7 @@ The PowerShell + DevOps Global Summit is an annual conference for PowerShell and
 ### Tuesday
 
 - [Individual Contributor Careers](./icCareers.md)
+- [Building Resilient Automations with PowerShell](./buildingResilientAutomations.md)
 
 ## Workshops
 
@@ -20,5 +21,4 @@ The PowerShell + DevOps Global Summit is an annual conference for PowerShell and
 
 ## Notes
 
-- 403 - Social room
-- 50% off books. Find QR code.
+- [50% off 2 or more books](https://www.manning.com/bundles/petty-powershell?utm_source=jamesp&utm_medium=affiliate&utm_campaign=petty_powershell_4_5_24&a_aid=jamesp&a_bid=233b7cd2)
