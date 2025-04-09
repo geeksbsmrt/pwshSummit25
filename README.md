@@ -23,6 +23,7 @@ The PowerShell + DevOps Global Summit is an annual conference for PowerShell and
 
 - [PowerShell for Pure Productivity and Perhaps Profit](./pwshProdAndProfit.md)
 - [Building a Web App with PowerShell Universal](./psuApp.md)
+- [Desired State Configuration DSCv3.0](./dscV3.md)
 
 ## Workshops
 
