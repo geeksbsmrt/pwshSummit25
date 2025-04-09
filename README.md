@@ -19,6 +19,10 @@ The PowerShell + DevOps Global Summit is an annual conference for PowerShell and
 - [The Incredible Extensible PSObject](./incrediblePSObject.md)
 - [Lightning Demos](./lightningDemo.md)
 
+###
+
+- [PowerShell for Pure Productivity and Perhaps Profit](./pwshProdAndProfit.md)
+
 ## Workshops
 
 - [A Scripters next step.. building a RESTful API](./apiLab/restAPI.md)
