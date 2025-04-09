@@ -9,6 +9,7 @@ The PowerShell + DevOps Global Summit is an annual conference for PowerShell and
 - [Delivering Value Through Data with Trust, Understanding and Care](./dataValue.md)
 - [State of Infrastructure-as-Code](./stateOfIoC.md)
 - [State of the Shell](./stateOfShell.md)
+- [A Scripters next step.. building a RESTful API](./apiLab/restAPI.md)
 
 ### Tuesday
 
@@ -27,10 +28,6 @@ The PowerShell + DevOps Global Summit is an annual conference for PowerShell and
 - [Pimp Your Parameters: The Magic of PowerShell Argument Completers](./paramArgCompleters.md)
 - [Pimp Your Parameters: The Magic of Transformation Classes](./paramTransformClasses.md)
 - [Unlocking Productivity with GitHub Copilot in 45 min](./coPilot.md)
-
-## Workshops
-
-- [A Scripters next step.. building a RESTful API](./apiLab/restAPI.md)
 
 ## Notes
 
