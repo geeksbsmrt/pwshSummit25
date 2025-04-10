@@ -28,6 +28,7 @@ The PowerShell + DevOps Global Summit is an annual conference for PowerShell and
 - [Pimp Your Parameters: The Magic of PowerShell Argument Completers](./paramArgCompleters.md)
 - [Pimp Your Parameters: The Magic of Transformation Classes](./paramTransformClasses.md)
 - [Unlocking Productivity with GitHub Copilot in 45 min](./coPilot.md)
+- [Mastering git collaboration](./gitCollab.md)
 
 ## Notes
 
