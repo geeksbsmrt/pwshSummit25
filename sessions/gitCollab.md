@@ -50,9 +50,9 @@ This session will empower you to collaborate with confidence and enhance your te
 
 ## Images
 
-![Collaboration](./images/collab.jpg)
-![PSModule](./images/psModule.jpg)
-![CI Flow](./images/ciFlow.jpg)
+![Collaboration](../images/collab.jpg)
+![PSModule](../images/psModule.jpg)
+![CI Flow](../images/ciFlow.jpg)
 
 ## Books
 
