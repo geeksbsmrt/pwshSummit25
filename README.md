@@ -36,6 +36,7 @@ The PowerShell + DevOps Global Summit is an annual conference for PowerShell and
 - [Empower Your Helpdesk: Turn Scripts into Dynamic Web Forms with Pode and Pode.Web](./sessions/pode.md)
 - [MSAL Authentication: Auth isn't hard (Auth isn't easy either)](./sessions/msalAuth.md)
 - [Ansible and Windows. How PowerShell enables a Linux config manager to work in a Windows world?](./sessions/ansibleAndWindows.md)
+- [DevOps not ClickOps: making end user compute management a first class citizen](./sessions/eucFirst.md)
 
 ## Links and Socials
 
