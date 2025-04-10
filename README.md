@@ -32,7 +32,8 @@ The PowerShell + DevOps Global Summit is an annual conference for PowerShell and
 
 ### Thursday
 
-[Building an LLM on your Laptop to Learn Faster](./sessions/llmLaptop.md)
+- [Building an LLM on your Laptop to Learn Faster](./sessions/llmLaptop.md)
+- [Empower Your Helpdesk: Turn Scripts into Dynamic Web Forms with Pode and Pode.Web](./sessions/pode.md)
 
 ## Links and Socials
 
