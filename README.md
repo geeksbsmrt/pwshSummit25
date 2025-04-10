@@ -32,6 +32,8 @@ The PowerShell + DevOps Global Summit is an annual conference for PowerShell and
 
 ### Thursday
 
+[Building an LLM on your Laptop to Learn Faster](./sessions/llmLaptop.md)
+
 ## Links and Socials
 
 - [PowerShell.org](https://powershell.org) - Event Sponsor
