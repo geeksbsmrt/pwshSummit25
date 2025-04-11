@@ -14,8 +14,6 @@ This session will empower you to collaborate with confidence and enhance your te
 
 ## Notes
 
-- "I changed the presentation because there was not a lot of DevOps at the conference. So we're covering DevOps and will touch on git later."
-  - WHAT?!?!
 - 4 Levers of ...
   - Change Speed
     - Reduce Friction
