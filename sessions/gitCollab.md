@@ -45,12 +45,18 @@ This session will empower you to collaborate with confidence and enhance your te
 - Sampler Module Project
 - Don't `git pull`; do `git pull --rebase`
 - `git push --force-with-lease`
+- `git push --force-with-lease --force-if-includes`
+  - [Details](https://adamj.eu/tech/2023/10/31/git-force-push-safely/)
 
 ## Images
 
 ![Collaboration](../images/collab.jpg)
 ![PSModule](../images/psModule.jpg)
-![CI Flow](../images/ciFlow.jpg)
+![CIFlow](../images/ciFlow.jpg)
+![MergeCommits](../images/mergeCommits.jpg)
+![PullRebase](../images/pullWithRebase.jpg)
+![PushForce](../images/pushForce.jpg)
+![WithLease](../images/pushWithLease.jpg)
 
 ## Books
 
