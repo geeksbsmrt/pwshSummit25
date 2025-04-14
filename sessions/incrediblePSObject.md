@@ -1,8 +1,8 @@
 # The Incredible Extensible PSObject
 
-Speaker: James Brundage
-Room: 406
-Time: 14:35 - 15:00
+| Room | Time | Speaker |
+|------|------|---------|
+| 406 | 14:35 - 15:00 | James Brundage |
 
 ## Session Description
 

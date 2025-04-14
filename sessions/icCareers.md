@@ -1,8 +1,8 @@
 # Individual Contributor Careers
 
-Speaker: Jeffrey Snover
-Room: 405
-Time: 9:00 - 9:45
+| Room | Time | Speaker |
+|------|------|---------|
+| 405 | 9:00 - 9:45 | Jeffrey Snover |
 
 ## Session Description
 

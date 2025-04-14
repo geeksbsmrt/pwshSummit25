@@ -1,8 +1,8 @@
 # Pimp Your Parameters: The Magic of PowerShell Argument Completers
 
-Speaker: Emrys MacInally
-Room: 405
-Time: 13:00 - 13:45
+| Room | Time | Speaker |
+|------|------|---------|
+| 405  | 13:00 - 13:45 | Emrys MacInally |
 
 ## Session Descriptiopn
 

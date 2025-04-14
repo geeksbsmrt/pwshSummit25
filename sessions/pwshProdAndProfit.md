@@ -1,8 +1,8 @@
 # PowerShell for Pure Productivity and Perhaps Profit
 
-Speakers: Andrew Pla & James Ruskin
-Room: 404
-Time: 9:00 - 9:25
+| Room | Time | Speakers |
+|------|------|---------|
+| 404  | 9:00 - 9:25 | Andrew Pla & James Ruskin |
 
 ## Session Description
 

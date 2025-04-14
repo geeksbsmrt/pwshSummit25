@@ -1,8 +1,8 @@
 # State of Infrastructure-as-Code
 
-Speakers: Mark Gray & Alex Frankel
-Room: 405
-Time: 10:30 - 11:15
+| Room | Time | Speakers |
+|------|------|---------|
+| 405  | 10:30 - 11:15 | Mark Gray & Alex Frankel |
 
 ## Session Description
 

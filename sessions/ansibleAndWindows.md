@@ -1,8 +1,8 @@
 # Ansible and Windows. How PowerShell enables a Linux config manager to work in a Windows world?
 
-Speaker: Paul Broadwith
-Room: 406
-Time: 1:50 - 2:35
+| Room | Time | Speaker |
+|------|------|---------|
+| 406 | 1:50 - 2:35 | Paul Broadwith |
 
 ## Session Description
 

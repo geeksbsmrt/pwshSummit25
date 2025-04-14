@@ -1,8 +1,8 @@
 # Mastering git collaboration
 
-Speakers: Gael Colas & Raimund Andree
-Room: 404
-Time: 15:30 - 17:00
+| Room | Time | Speakers |
+|------|------|---------|
+| 404 | 15:30 - 17:00 | Gael Colas & Raimund Andree |
 
 ## Session Description
 

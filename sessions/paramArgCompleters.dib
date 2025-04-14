@@ -6,11 +6,9 @@
 
 # Pimp Your Parameters: The Magic of PowerShell Argument Completers
 
-| Speaker | Emrys MacInally |
-| ------- | --------------- |
-| Room    | 405             |
-| Time    | 1:00 - 1:45     |
-
+| Room | Time | Speaker |
+| ---- | ---- | ------- |
+| 405  | 1:00 - 1:45 | Emrys MacInally |
 
 ## Session Descriptiopn
 
@@ -40,7 +38,7 @@
       [MyAcceptedValues]$MyValue
     )
     ```
-    
+
 - Bad: `ArgumentCompleter({'','',''})`
   - This is basically ValidateSet without input validation
   - Does NOT respect partial inputs during lookups
