@@ -1,6 +1,6 @@
 # PowerShell & DevOps Global Summit 2025
 
-The PowerShell + DevOps Global Summit is an annual conference for PowerShell and DevOps professionals. It is a multi-day event focused on learning, networking, and collaboration around PowerShell, automation, infrastructure, and software development. The summit includes sessions, workshops, and discussions led by industry experts, covering topics such as cloud, device management, security, and user management. It also features an entry-level track called On-Ramp.
+The [PowerShell + DevOps Global Summit](https://www.powershellsummit.org/) is an annual conference for PowerShell and DevOps professionals. It is a multi-day event focused on learning, networking, and collaboration around PowerShell, automation, infrastructure, and software development. The summit includes sessions, workshops, and discussions led by industry experts, covering topics such as cloud, device management, security, and user management. It also features an entry-level track called On-Ramp.
 
 ## Sessions
 
@@ -38,19 +38,32 @@ The PowerShell + DevOps Global Summit is an annual conference for PowerShell and
 - [Ansible and Windows. How PowerShell enables a Linux config manager to work in a Windows world?](./sessions/ansibleAndWindows.md)
 - [DevOps not ClickOps: making end user compute management a first class citizen](./sessions/eucFirst.md)
 
-## Links and Socials
+## Links
 
-- [PowerShell.org](https://powershell.org) - Event Sponsor
+### Event Sponsors
+
+- [PowerShell.org](https://powershell.org)
   - [Forums](https://forums.powershell.org/)
   - [GitHub](https://github.com/powershellorg)
   - [YouTube](https://www.youtube.com/@PowershellOrg)
-- [PDQ's 'The PowerShell Podcast'](https://www.pdq.com/resources/the-powershell-podcast/)
+- [Chocolatey](https://chocolatey.org/)
+- [Jane Street](https://www.janestreet.com/)
+- [PatchMyPC](https://www.patchmypc.com/)
+- [DevITJobs](https://devitjobs.com/)
 
-- User Groups
-  - [Research Triangle PowerShell User Group](https://rtpsug.com/)
-  - [PowerShell Virtual User Group (Discord)](https://discord.gg/powershell)
-  - [Reddit](https://www.reddit.com/r/PowerShell/)
+### Socials
+
+- [PDQ's 'The PowerShell Podcast'](https://www.pdq.com/resources/the-powershell-podcast/)
+- [Research Triangle PowerShell User Group](https://rtpsug.com/)
+- [PowerShell Virtual User Group (Discord)](https://discord.gg/powershell)
+- [Reddit](https://www.reddit.com/r/PowerShell/)
+
+### Resources
+
+- [PSFramework](https://psframework.org)
+- [Sampler - Module Scaffolding with Test and Build support](https://github.com/gaelcolas/Sampler)
+- [DemoTime - Script your coding demos to perfection and present slides — all within VS Code!](https://demotime.elio.dev/)
+
+### Discounts
 
 - [50% off 2 or more books](https://www.manning.com/bundles/petty-powershell?utm_source=jamesp&utm_medium=affiliate&utm_campaign=petty_powershell_4_5_24&a_aid=jamesp&a_bid=233b7cd2)
-
-## Notes
