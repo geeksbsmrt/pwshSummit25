@@ -1,8 +1,8 @@
 # Pimp Your Parameters: The Magic of Transformation Classes
 
-Speaker: Emrys MacInally
-Room: 405
-Time: 13:50 - 14:15
+| Room | Time | Speaker |
+|------|------|---------|
+| 405  | 13:50 - 14:15 | Emrys MacInally |
 
 ## Session Description
 

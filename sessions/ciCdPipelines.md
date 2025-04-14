@@ -1,8 +1,8 @@
 # PowerShell in CI/CD Pipelines: A Practical Tour of Deployment Options
 
-Speakers: Blake Cherry & Danny Stutz
-Room: 404
-Time: 11:10 - 11:55
+| Room | Time | Speakers |
+|------|------|---------|
+| 404 | 11:10 - 11:55 | Blake Cherry & Danny Stutz |
 
 ## Session Description
 

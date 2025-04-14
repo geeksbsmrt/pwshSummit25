@@ -1,8 +1,8 @@
 # Building Resilient Automations with PowerShell
 
-Speaker: Matthew Dowst
-Room: 401
-Time: 10:10 - 10:55
+| Room | Time | Speaker |
+|------|------|---------|
+| 401 | 10:10 - 10:55 | Matthew Dowst |
 
 ## Session Description
 

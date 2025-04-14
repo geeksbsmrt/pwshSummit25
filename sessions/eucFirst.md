@@ -1,8 +1,8 @@
 # DevOps not ClickOps: making end user compute management a first class citizen
 
-Speakers: Steven Hosking & Ben Reader
-Room: 405
-Time: 2:45 - 3:30
+| Room | Time | Speakers |
+|------|------|---------|
+| 405 | 2:45 - 3:30 | Steven Hosking & Ben Reader |
 
 ## Session Description
 

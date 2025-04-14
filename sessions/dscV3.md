@@ -1,8 +1,8 @@
 # Desired State Configuration DSCv3.0
 
-Speakers: Steve Lee & Michael Greene
-Room: 401
-Time: 11:00 - 11:45
+| Room | Time | Speakers |
+|------|------|---------|
+| 401 | 11:00 - 11:45 | Steve Lee & Michael Greene |
 
 ## Session Description
 

@@ -1,8 +1,8 @@
 # State of the Shell
 
-Speakers: Jason Helmick, Sydney Smith, Steven Bucher, & Damien Caro
-Room: 405
-Time:  11:15 - 12:00
+| Room | Time | Speakers |
+|------|------|---------|
+| 405  | 11:15 - 12:00 | Jason Helmick, Sydney Smith, Steven Bucher, & Damien Caro |
 
 ## Session Description
 

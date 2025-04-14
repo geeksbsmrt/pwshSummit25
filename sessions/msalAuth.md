@@ -1,8 +1,8 @@
 # MSAL Authentication: Auth isn't hard (Auth isn't easy either)
 
-Speaker: Ben Reader
-Room: 404
-Time: 1:00 - 1:45
+| Room | Time | Speaker |
+|------|------|---------|
+| 404 | 1:00 - 1:45 | Ben Reader |
 
 ## Session Description
 

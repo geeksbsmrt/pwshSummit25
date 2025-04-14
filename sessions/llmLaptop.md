@@ -1,8 +1,8 @@
 # Building an LLM on your Laptop to Learn Faster
 
-Speakers: Joe Houghes & Anthony Nocentino
-Room: 404
-Time: 9:00 - 10:30
+| Room | Time | Speakers |
+|------|------|---------|
+| 404 | 9:00 - 10:30 | Joe Houghes & Anthony Nocentino |
 
 ## Session Description
 

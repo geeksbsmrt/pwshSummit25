@@ -1,8 +1,8 @@
 # Lightning Demos
 
-Speakers: Random
-Room: 404
-Time: 15:30 - 17:00
+| Room | Time | Speaker |
+|------|------|---------|
+| 404 | 15:30 - 17:00 | Random |
 
 ## Session Description
 

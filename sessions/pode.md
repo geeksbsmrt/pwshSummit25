@@ -1,8 +1,8 @@
 # Empower Your Helpdesk: Turn Scripts into Dynamic Web Forms with Pode and Pode.Web
 
-Speaker: Christian Ritter
-Room: 404
-Time: 11:00 -11:45
+| Room | Time | Speaker |
+|------|------|---------|
+| 404  | 11:00 -11:45 | Christian Ritter |
 
 ## Session Description
 

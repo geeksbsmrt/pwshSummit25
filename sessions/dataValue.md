@@ -1,8 +1,8 @@
 # Delivering Value Through Data with Trust, Understanding and Care
 
-Speaker: Jennifer Stirrup
-Room: 405
-Time: 9:30 - 10:15
+| Room | Time | Speaker |
+|------|------|---------|
+| 405 | 9:30 - 10:15 | Jennifer Stirrup |
 
 ## Session Description
 

@@ -1,8 +1,8 @@
 # PowerShell Performance and Technique Tweaks: The Encore
 
-Speaker: Chrisitian Ritter
-Room: 401
-Time: 13:00 - 14:30
+| Room | Time | Speaker |
+|------|------|---------|
+| 401  | 13:00 - 14:30 | Christian Ritter |
 
 ## Session Description
 

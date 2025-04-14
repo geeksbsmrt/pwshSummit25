@@ -1,8 +1,8 @@
 # Unlocking Productivity with GitHub Copilot in 45 min
 
-Speaker: Peter De Tender
-Room: 406
-Time: 14:20 - 15:05
+| Room | Time | Speaker |
+|------|------|---------|
+| 406 | 14:20 - 15:05 | Peter De Tender |
 
 ## Session Description
 

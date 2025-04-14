@@ -1,8 +1,8 @@
 # Building a Web App with PowerShell Universal
 
-Speaker: Adam Driscoll
-Room: 401
-Time: 9:45 - 10:30
+| Room | Time | Speaker |
+|------|------|---------|
+| 401  | 9:45 - 10:30 | Adam Driscoll |
 
 ## Session Description
 
